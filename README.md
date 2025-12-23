@@ -6,7 +6,6 @@
 
 ### 개발 환경
 > Unity 6000.2.1f1<br>
-> Templates : Universal 3D
 > RTX4050 Laptop<br>
 
 ### 설명
