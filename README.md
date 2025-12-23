@@ -26,19 +26,19 @@
         + 센서가 주변 장애물을 감지한 경우, 센서의 연속성(장애물을 감지한 센서의 부채꼴 영역)이 소실되는 지점까지의 거리 d1, d2, d3, ... dn에서 목표지점까지의 거리 g가 있을 때, min(d1 + g, d2 + g, ... dn + g)이 되는 d로 이동
       + Boundary-following : 목표 지점에 도달하지 않았으나 특정 시간동안 위치 변화가 0에 가깝다면 Localminimum에 빠졌다고 판단, Localminimum에서 목표 지점까지의 거리 d를 기억 후 장애물의 외곽선을 따라 이동하며 d보다 거리가 작아지는 지점에 도달하면 다시 Motion-to-goal 수행<br><br>
 
-#### 곤충 1 실행결과
+### 곤충 1 실행결과
 
 https://github.com/user-attachments/assets/accd1a7b-de1b-4e6a-8281-ccfda95e8cdf
 
 https://github.com/user-attachments/assets/390096e9-3d1b-47b9-8ace-9773ab3babc2
 
-#### 곤충 2 실행결과
+### 곤충 2 실행결과
 
 https://github.com/user-attachments/assets/cc807668-93a2-42e0-80fd-fd801bda398e
 
 https://github.com/user-attachments/assets/9ca070d4-8b2a-4e30-b409-abf858fd9869
 
-#### 탄젠트 곤충 실행결과
+### 탄젠트 곤충 실행결과
 
 https://github.com/user-attachments/assets/9d8bd034-b336-4af0-882d-d32f88057702
 
